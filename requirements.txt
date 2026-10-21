@@ -1,0 +1,13 @@
+langchain
+langgraph
+langchain-groq
+langchain-google-genai
+google-generativeai
+fastapi
+uvicorn
+streamlit
+python-dotenv
+requests
+pydantic
+pillow
+python-multipart
